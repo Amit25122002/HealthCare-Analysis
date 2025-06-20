@@ -62,3 +62,5 @@ Respiratory Infections
 
 Represented using a donut chart for clear visualization.
 
+![image](https://github.com/user-attachments/assets/a60e3b71-54ad-43d7-ac8c-053f08eb0e14)
+
