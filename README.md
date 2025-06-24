@@ -61,6 +61,6 @@ Malaria
 Respiratory Infections
 
 Represented using a donut chart for clear visualization.
+![image](https://github.com/user-attachments/assets/6244fdae-f8a9-4bd3-8076-76519ecb8e35)
 
-![image](https://github.com/user-attachments/assets/a60e3b71-54ad-43d7-ac8c-053f08eb0e14)
 
